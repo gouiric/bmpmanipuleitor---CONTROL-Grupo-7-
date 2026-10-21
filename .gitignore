@@ -1,0 +1,8 @@
+# Archivos compilados y objetos temporales de Code::Blocks
+*.o
+*.exe
+*.depend
+*.layout
+
+# Archivos comprimidos de backup
+*.zip
